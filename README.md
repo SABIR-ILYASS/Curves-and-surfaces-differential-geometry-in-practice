@@ -1,1 +1,1 @@
-# Curves-and-surfaces-differential-geometry-in-practice
+# Curves and surfaces : differential geometry in practice
